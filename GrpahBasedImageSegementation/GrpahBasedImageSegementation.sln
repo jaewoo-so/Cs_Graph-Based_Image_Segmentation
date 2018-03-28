@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpahBasedImageSegementation", "GrpahBasedImageSegementation\GrpahBasedImageSegementation.csproj", "{6CBED55E-21FB-42E0-84F4-4C9FD94C3F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForTest_GraphBasedSegmetation", "..\ForTest_GraphBasedSegmetation\ForTest_GraphBasedSegmetation.csproj", "{59B721C4-D93A-4A30-A369-2A56173DA1FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CBED55E-21FB-42E0-84F4-4C9FD94C3F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBED55E-21FB-42E0-84F4-4C9FD94C3F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CBED55E-21FB-42E0-84F4-4C9FD94C3F47}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6CBED55E-21FB-42E0-84F4-4C9FD94C3F47}.Debug|x64.Build.0 = Debug|Any CPU
+		{6CBED55E-21FB-42E0-84F4-4C9FD94C3F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CBED55E-21FB-42E0-84F4-4C9FD94C3F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CBED55E-21FB-42E0-84F4-4C9FD94C3F47}.Release|x64.ActiveCfg = Release|Any CPU
+		{6CBED55E-21FB-42E0-84F4-4C9FD94C3F47}.Release|x64.Build.0 = Release|Any CPU
+		{59B721C4-D93A-4A30-A369-2A56173DA1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B721C4-D93A-4A30-A369-2A56173DA1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B721C4-D93A-4A30-A369-2A56173DA1FF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{59B721C4-D93A-4A30-A369-2A56173DA1FF}.Debug|x64.Build.0 = Debug|Any CPU
+		{59B721C4-D93A-4A30-A369-2A56173DA1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B721C4-D93A-4A30-A369-2A56173DA1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B721C4-D93A-4A30-A369-2A56173DA1FF}.Release|x64.ActiveCfg = Release|Any CPU
+		{59B721C4-D93A-4A30-A369-2A56173DA1FF}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
