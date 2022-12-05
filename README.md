@@ -13,8 +13,12 @@ Implement of 'Efficient Graph-Based Image Segmentation'
 ---
 
 **original**
-<img src="https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/Test.bmp"  width="200" />
 
+<img src="https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/Test.bmp"  width="400" />
+
+
+**result**
+<img src="https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/result.bmp"  width="400" />
 
 ![alt text](https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/Test.bmp?raw=true)
 
