@@ -13,7 +13,7 @@ https://doi.org/10.1023/B:VISI.0000022288.19776.77
     <br/>
     <img src="https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/paper_example2.jpg?raw=true"  width="400" />
 </p>
-
+&nbsp;
 
         
 ### Simple Example 
@@ -35,7 +35,7 @@ Image<Rgb,byte> output = new Image<Rgb, byte>(data);
 output.Save( "SAVE PATH" );
 
 ```
-
+&nbsp;
 **[original image]**    
 <img src="https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/Test.bmp"  width="400" />
 
@@ -45,7 +45,7 @@ output.Save( "SAVE PATH" );
     
 
 
-    
+&nbsp;
 # Dependency
 - EmguCV = 3.3.0
 - SpeedyCoding = 2.2.1
