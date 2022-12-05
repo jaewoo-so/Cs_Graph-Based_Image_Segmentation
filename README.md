@@ -9,9 +9,9 @@ https://doi.org/10.1023/B:VISI.0000022288.19776.77
 
 
 <p align="center">
-    <img src="https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/paper_example1.jpg"  width="400" />
+    <img src="https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/paper_example1.jpg?raw=true"  width="400" />
     <br/>
-    <img src="https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/paper_example2.jpg"  width="400" />
+    <img src="https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/paper_example2.jpg?raw=true"  width="400" />
 </p>
 
 
