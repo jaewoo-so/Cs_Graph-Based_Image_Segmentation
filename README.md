@@ -12,22 +12,17 @@ Implement of 'Efficient Graph-Based Image Segmentation'
 ### Example Result
 ---
 
-**original**
-
+**original image1**
 <img src="https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/Test.bmp"  width="400" />
 
 
-**result**
-<img src="https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/result.bmp"  width="400" />
-
-![alt text](https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/Test.bmp?raw=true)
-
-**result**
-![alt text](https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/Result.bmp?raw=true)
+**result image1**
+<img src="https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/Result.bmp"  width="400" />
 
 
-**original**
-![alt text](https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/Test2.bmp?raw=true)
+**original image2**
+<img src="https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/Test2.bmp"  width="400" />
 
-**result(())
-![alt text](https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/result2.bmp?raw=true)
+
+**result image2**
+<img src="https://github.com/jaewoo-so/Cs_Graph-Based_Image_Segmentation/blob/master/img/Result2.bmp"  width="400" />
