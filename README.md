@@ -52,3 +52,20 @@ output.Save( "SAVE PATH" );
 
 
 ** SpeedyCoding is my personal libaray for funtional programing & chaining style coding for C#. 
+
+
+# Theory
+---
+
+
+Eigenvector-based methods of image segmentation are too slow to be practical for many applications.
+
+
+
+Key idea is 
+$$G = (V, E)$$
+
+$$v_i \in V $$ 
+
+$$ edge(v_i, v_j) \in E $$ 
+$$ weight \ w(v_i, v_j)$$
